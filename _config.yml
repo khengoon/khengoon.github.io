@@ -1,2 +1,3 @@
-	name: Jeff Low, Full-stack Javascript developer
-	markdown: kramdown
+name: Jeff Low, Full-stack Javascript developer
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
